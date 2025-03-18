@@ -12,4 +12,10 @@
 
 ## 2.Creatinine
 
+**Creatinine anhydrous made into a calculated amount of solution** 
+
+![image alt](https://github.com/sanasayeeda142003/PROJ3999-V3/blob/43075b6895188c87ca5e61341639c24eada79c05/creatinine.jpg)
+
 ## 3.Silver Paste
+
+![image alt](https://github.com/sanasayeeda142003/PROJ3999-V3/blob/43075b6895188c87ca5e61341639c24eada79c05/silver%20paste.jpg)
