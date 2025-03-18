@@ -22,20 +22,6 @@ This project focuses on developing a **wearable field-effect transistor (FET)-ba
 3. **Signal Processing:** The microcontroller processes the data and transmits it wirelessly.
 4. **Data Visualization:** The readings are displayed on a smartphone or cloud dashboard.
 
-## Installation & Usage
-1. **Hardware Setup:**
-   - Assemble the sensor components on a flexible substrate.
-   - Connect the FET sensor to the microcontroller.
-   - Configure the wireless module for communication.
-   
-2. **Software Setup:**
-   - Install the required libraries for the MCU.
-   - Upload the firmware to the microcontroller.
-   - Use a mobile app or web dashboard to view real-time data.
-
-3. **Testing & Calibration:**
-   - Test with known creatinine concentrations.
-   - Calibrate the sensor for accuracy.
 
 ## Timeline
 | Task | Start Date | End Date |
